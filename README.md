@@ -43,9 +43,8 @@ This project demonstrates the use of GPIO pins for digital input and output usin
 
 **Disclaimer:** The following image is a placeholder for the actual hardware setup. Replace it with your own project photo to show your completed activity.
 
-<!-- Insert your actual hardware setup image here -->
+<img width="490" height="428" alt="image" src="https://github.com/user-attachments/assets/cbbf6543-ca03-4700-9aef-237fe1ee28f2" />
 
-![Hardware Setup](images/hardware-setup.png)
 
 ## Source Code
 
