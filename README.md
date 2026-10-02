@@ -36,9 +36,8 @@ This project demonstrates the use of GPIO pins for digital input and output usin
 
 **Disclaimer:** The image below is intended for documentation and reference purposes. Your actual circuit setup may look different depending on your wiring and components.
 
-<!-- Insert your circuit diagram image here -->
+<img width="828" height="343" alt="image" src="https://github.com/user-attachments/assets/8cf218b7-205e-4201-8148-3a6a160d3db7" />
 
-![Circuit Diagram](images/circuit-diagram.png)
 
 ## Project Setup
 
